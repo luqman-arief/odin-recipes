@@ -1,6 +1,19 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
     background-color: thistle;
+}
+
+h1 {
+    background-color: rgb(226, 250, 203);
+    color: rgb(82, 47, 2);
+}
+
+ul, ol {
+    background-color: rgb(225, 235, 207);
+    color: cornflowerblue;
 }
 
 #title {
@@ -14,6 +27,6 @@
 }
 
 .list {
-    background-color: rgb(194, 191, 36);
+    background-color: rgb(218, 217, 170);
     color: seagreen;
 }
