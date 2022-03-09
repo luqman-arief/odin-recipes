@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: thistle;
+}
+
+#title {
+    background-color: bisque;
+    color: cadetblue;
+}
+
+#subtitle {
+    background-color: rgb(247, 178, 154);
+    color: rgb(1, 160, 120);
+}
+
+.list {
+    background-color: rgb(194, 191, 36);
+    color: seagreen;
+}
