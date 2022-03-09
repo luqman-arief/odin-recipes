@@ -11,6 +11,16 @@ h1 {
     color: rgb(82, 47, 2);
 }
 
+h3 {
+    background-color: rgb(240, 238, 155);
+    color: rgb(97, 20, 80);
+}
+
+h4 {
+    background-color: rgb(201, 197, 248);
+    color: rgb(35, 71, 49);
+}
+
 ul, ol {
     background-color: rgb(225, 235, 207);
     color: cornflowerblue;
